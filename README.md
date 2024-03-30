@@ -1,4 +1,4 @@
-# IntelFIR-Illuminating-Insights-from-First-Information-Reports-with-Mistral-AI-and-CCTNS-Integration
+# IntelFIR: Illuminating Insights from First Information Reports with MistralAI and CCTNS Integration
 
 
 An Automated Legal Insight Project that uses Mistral AI, an open source Large Language Model (LLM) finetuned on IPC & CrPC Datasets, to analyze First Information Reports (FIRs) and generate insightful reports. The application also allows users to search the Crime and Criminal Tracking Network and Systems (CCTNS) database for relevant information.
@@ -15,7 +15,7 @@ An Automated Legal Insight Project that uses Mistral AI, an open source Large La
 To run the project locally, follow these steps:
 
 - Clone the repository.
-- Navigate to the `text-extraction-app` directory and install the required Python packages using `pip install -r requirements.txt`
+- Navigate to the directory and install the required Python packages using `pip install -r requirements.txt`
 - Navigate to the `frontend` directory and install the required Node.js packages using `npm install`
 -  Navigate to the `backend` directory and install the required Node.js packages using `npm install`
 - Verify that all the installations have been completed successfully.
